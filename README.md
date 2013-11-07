@@ -1,7 +1,6 @@
 problemcategory
 ===============
 
-<<<<<<< HEAD
 problemcategory
 =======
 ACM 题目分类
@@ -11,4 +10,3 @@ ACM 题目分类
 - 创建数据库 problemCategory，导入./static/db1.sql
 - 执行 ./add_user.py 添加用户
 - 执行 python code.py [端口号]
->>>>>>> init
