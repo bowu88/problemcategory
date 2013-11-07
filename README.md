@@ -1,5 +1,3 @@
-problemcategory
-===============
 
 problemcategory
 =======
